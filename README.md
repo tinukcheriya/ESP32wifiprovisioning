@@ -89,4 +89,5 @@ Example Serial Monitor Output:
 ## Video output
 Watch the demo of the project in action:
 
-[![ESP32 Wi-Fi Provisioning Demo](images/espproject2.png)](video/espproject(1).mp4)
+[Watch the ESP32 Wi-Fi Provisioning Demo](video/espproject(1).mp4)
+
